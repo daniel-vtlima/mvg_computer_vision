@@ -1,4 +1,5 @@
 ## MULTIPLE VIEW GEOMETRY IN COMPUTER VISION REPOSITORY  
+---
 In this repository I'll be showing python scripts and jupyter notebook that covers the material approached in Hartley, R et. al(2004).
 
 ### Author
@@ -6,4 +7,5 @@ In this repository I'll be showing python scripts and jupyter notebook that cove
 
 
 ## REFERENCES
-- Hartley, R., & Zisserman, A. (2004). Multiple View Geometry in Computer Vision.
+---
+- [Hartley, R., & Zisserman, A. (2004). Multiple View Geometry in Computer Vision.](https://www.cambridge.org/br/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/multiple-view-geometry-computer-vision-2nd-edition?format=PB&isbn=9780521540513)
